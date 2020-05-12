@@ -10,3 +10,8 @@
 html {
     scroll-behavior: smooth;
 }
+
+.filtro:hover {
+    filter: opacity(30%);
+    transition: 150ms;
+}
